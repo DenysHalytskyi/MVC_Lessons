@@ -21,3 +21,8 @@ function getStudentId()
 getStudentFullName();
 getStudentId();
 
+//----------------Zad 3-------------------
+module.exports = {
+    getStudentFullName,
+    getStudentId,
+};
